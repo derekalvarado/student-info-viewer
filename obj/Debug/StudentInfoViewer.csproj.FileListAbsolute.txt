@@ -1,0 +1,2 @@
+C:\Users\Derek\Documents\Visual Studio 2013\Projects\LeadershipManager\LeadershipManager\bin\Debug\StudentInfoViewer.exe.config
+C:\Users\Derek\Documents\Visual Studio 2013\Projects\student-info-viewer\LeadershipManager\bin\Debug\StudentInfoViewer.exe.config

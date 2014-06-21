@@ -1,0 +1,12 @@
+C:\Users\Derek\Documents\Visual Studio 2013\Projects\Deitel\LeadershipManager\LeadershipManager\bin\Debug\LeadershipManager.exe.config
+C:\Users\Derek\Documents\Visual Studio 2013\Projects\Deitel\LeadershipManager\LeadershipManager\bin\Debug\LeadershipManager.exe
+C:\Users\Derek\Documents\Visual Studio 2013\Projects\Deitel\LeadershipManager\LeadershipManager\bin\Debug\LeadershipManager.pdb
+C:\Users\Derek\Documents\Visual Studio 2013\Projects\Deitel\LeadershipManager\LeadershipManager\obj\Debug\LeadershipManager.csprojResolveAssemblyReference.cache
+C:\Users\Derek\Documents\Visual Studio 2013\Projects\Deitel\LeadershipManager\LeadershipManager\obj\Debug\LeadershipManager.frmInfoViewer.resources
+C:\Users\Derek\Documents\Visual Studio 2013\Projects\Deitel\LeadershipManager\LeadershipManager\obj\Debug\LeadershipManager.Properties.Resources.resources
+C:\Users\Derek\Documents\Visual Studio 2013\Projects\Deitel\LeadershipManager\LeadershipManager\obj\Debug\LeadershipManager.csproj.GenerateResource.Cache
+C:\Users\Derek\Documents\Visual Studio 2013\Projects\Deitel\LeadershipManager\LeadershipManager\obj\Debug\LeadershipManager.exe
+C:\Users\Derek\Documents\Visual Studio 2013\Projects\Deitel\LeadershipManager\LeadershipManager\obj\Debug\LeadershipManager.pdb
+C:\Users\Derek\Documents\Visual Studio 2013\Projects\LeadershipManager\LeadershipManager\bin\Debug\LeadershipManager.exe.config
+C:\Users\Derek\Documents\Visual Studio 2013\Projects\LeadershipManager\LeadershipManager\obj\Debug\LeadershipManager.exe
+C:\Users\Derek\Documents\Visual Studio 2013\Projects\LeadershipManager\LeadershipManager\obj\Debug\LeadershipManager.pdb
